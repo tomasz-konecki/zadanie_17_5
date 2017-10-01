@@ -1,0 +1,22 @@
+{
+  "name": "zadanie_17_5",
+  "version": "1.0.0",
+  "description": "Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasz-konecki/zadanie_17_5.git"
+  },
+  "author": "TK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasz-konecki/zadanie_17_5/issues"
+  },
+  "homepage": "https://github.com/tomasz-konecki/zadanie_17_5#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
